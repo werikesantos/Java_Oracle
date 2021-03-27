@@ -1,0 +1,4 @@
+1 - Abrir o terminal cmd 
+2 - Entrar no diretório onde está localizado o arquivo .jar
+3 - Executar o arquivo como é mostrado abaixo:
+4 - java -jar arquivo.jar (Exemplo: JavaPuzzleBall.jar)
